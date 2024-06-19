@@ -11,11 +11,8 @@ class Solution {
                 count = 0;
             }
         }
-
         bouquets += count / k;
-
         return bouquets >= m;
-
     }
 
     public int minDays(int[] bloomDay, int m, int k) {

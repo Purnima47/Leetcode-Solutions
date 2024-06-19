@@ -12,9 +12,7 @@ public:
                 count = 0;
             }
         }
-
         bouquets += count / k;
-
         return bouquets >= m;
     }
 
