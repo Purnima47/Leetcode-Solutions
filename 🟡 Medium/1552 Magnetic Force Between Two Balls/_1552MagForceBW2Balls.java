@@ -1,5 +1,6 @@
 class Solution {
     public boolean canPlaceBalls(int[] position, int m, int maxDist) {
+        
         int count = 1;
         int prevBall = position[0];
 
@@ -18,6 +19,7 @@ class Solution {
     }
 
     public int maxDistance(int[] position, int m) {
+
         int maxDist = 0;
         Arrays.sort(position);
 

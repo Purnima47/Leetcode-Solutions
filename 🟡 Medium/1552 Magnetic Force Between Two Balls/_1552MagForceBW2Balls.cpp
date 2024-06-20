@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canPlaceBalls(vector<int>& position, int m, int maxDist) {
+        
         int count = 1;
         int prevBall = position[0];
 
@@ -19,6 +20,7 @@ public:
     }
 
     int maxDistance(vector<int>& position, int m) {
+        
         int maxDist = 0;
         sort(position.begin(), position.end());
 
