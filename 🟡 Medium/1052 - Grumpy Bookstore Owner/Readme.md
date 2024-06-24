@@ -2,12 +2,11 @@
 
 ### `Medium`
 
----
+
 <h2 align="center">
 <a href="https://leetcode.com/problems/grumpy-bookstore-owner/description/"><strong>Question Link</strong></a>
 </h2>
 
----
 
 ## Description 📑
 
