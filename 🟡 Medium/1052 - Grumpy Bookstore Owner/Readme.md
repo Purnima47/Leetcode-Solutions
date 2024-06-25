@@ -2,12 +2,11 @@
 
 ### `Medium`
 
----
+
 <h2 align="center">
 <a href="https://leetcode.com/problems/grumpy-bookstore-owner/description/"><strong>Question Link</strong></a>
 </h2>
 
----
 
 ## Description 📑
 
@@ -30,7 +29,7 @@
 <ins>**Example 1**:</ins> </br>
 
 | _INPUT_ |
-| ----------- |
+| :-----------: |
 | customers = [1,0,1,2,1,1,7,5] |
 | grumpy = [0,1,0,1,0,1,0,1] |
 | minutes = 3 |
@@ -46,15 +45,14 @@
 </h3>
 
 The bookstore owner keeps themselves not grumpy for the last 3 minutes.
-The maximum number of customers that can be
-    `satisfied = 1 + 1 + 1 + 1 + 7 + 5 = 16.`
+The maximum number of customers that can be </br> `satisfied = 1 + 1 + 1 + 1 + 7 + 5 = 16.`
 ___
 <h3>
 
 <ins>**Example 2**:</ins> </br>
 
 | _INPUT_ |
-| ----------- |
+| :-----------: |
 | customers  = [1] |
 | grumpy = [0] |
 | minutes = 1 |
