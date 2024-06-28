@@ -11,9 +11,9 @@ public:
             count += r - l + 1;
             r++;
         }
-
         return count;
     }
+    
     int numberOfSubarrays(vector<int>& nums, int k) {
         return lessThanEqualTok(nums, k) - lessThanEqualTok(nums, k - 1);
     }
