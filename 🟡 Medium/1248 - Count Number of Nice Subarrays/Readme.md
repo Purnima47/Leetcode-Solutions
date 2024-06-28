@@ -1,5 +1,5 @@
 # 1248. Count Number of Nice Subarrays
-### `Easy`
+### `Medium`
 
 
 <h2 align="center">
