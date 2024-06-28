@@ -1,6 +1,7 @@
 class Solution
 {
 public:
+
     int satisfiedCustomers(vector<int> &customers, vector<int> &grumpy, int start, int end, int initialSatisfied)
     {
         // calculate more satisfied customer if owner use themselves power
