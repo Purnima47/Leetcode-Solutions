@@ -6,7 +6,7 @@ class Solution {
             freq[edge[0]]++;
             freq[edge[1]]++;
         }
-
+        
         Arrays.sort(freq);
 
         long imp = 0;
