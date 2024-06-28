@@ -4,8 +4,7 @@ int findCenter(int **edges, int edgesSize, int *edgesColSize)
     {
         return edges[0][0];
     }
-    else
-    {
-        return edges[0][1];
-    }
+    
+    return edges[0][1];
+
 }
