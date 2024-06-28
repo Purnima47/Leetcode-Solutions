@@ -11,6 +11,7 @@ public:
             count += r - l + 1;
             r++;
         }
+        
         return count;
     }
     
