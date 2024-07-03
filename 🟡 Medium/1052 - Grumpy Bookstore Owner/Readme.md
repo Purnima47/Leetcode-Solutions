@@ -1,6 +1,6 @@
 # 1052. Grumpy Bookstore Owner
 
-### `Mediu`
+### `Medium`
 
 
 <h2 align="center">
