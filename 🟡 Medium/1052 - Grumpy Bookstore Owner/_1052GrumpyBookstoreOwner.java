@@ -1,5 +1,4 @@
 class Solution {
-
     private int satisfiedCustomers(int[] customers, int[] grumpy, int start, int end, int initialSatisfied) {
         // calculate more satisfied customer if owner use themselves power
         // for a period of time which is start to end
