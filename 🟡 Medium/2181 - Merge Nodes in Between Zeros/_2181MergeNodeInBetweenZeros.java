@@ -1,6 +1,5 @@
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-
         // lp -> left pointer which would point at first zero
         ListNode lp = head;
 
@@ -44,7 +43,6 @@ class Solution {
         }
 
         // now return your list.
-
         return res.next;
 
     }
