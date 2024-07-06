@@ -1,4 +1,5 @@
 var passThePillow = function (n, time) {
+    
     let div = Math.floor(time / (n - 1));
     let rem = time % (n - 1);
 
