@@ -1,5 +1,6 @@
 class Solution {
     public int findTheWinner(int n, int k) {
+        
         // To store friends which are in the game (circular manner)
         List<Integer> friends = new ArrayList<>();
 
