@@ -1,6 +1,6 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        
+
         // To store friends which are in the game (circular manner)
         List<Integer> friends = new ArrayList<>();
 
@@ -30,9 +30,9 @@ class Solution {
             start = removeIdx;
             // calculate new size.
             size = friends.size();
-        }
+        }  
 
         // now only one element is left therefore return the winner which is at index 0.
-        return friends.get(0);
+        return friends.get(0);   
     }
 }
