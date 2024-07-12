@@ -5,7 +5,7 @@ public:
 
         for (int i = 1; i <= n; i++) {
             friends.push_back(i);
-        }
+        } 
 
         int start = 0;
         int size = friends.size();
