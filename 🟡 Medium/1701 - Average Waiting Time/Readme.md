@@ -2,7 +2,6 @@
 
 ### `Medium`
 
-
 <h2 align="center">
 <a href="https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09"><strong>Question Link</strong></a>
 </h2>
