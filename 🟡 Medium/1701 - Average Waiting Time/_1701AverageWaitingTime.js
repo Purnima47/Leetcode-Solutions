@@ -1,8 +1,3 @@
-/**
- * @param {number[][]} customers
- * @return {number}
- */
-
 var averageWaitingTime = function (customers) {
     let ans = 0;
     let n = customers.length;
