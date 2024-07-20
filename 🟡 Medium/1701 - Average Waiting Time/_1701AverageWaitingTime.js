@@ -1,4 +1,4 @@
-var averageWaitingTime = function (customers) {
+var averageWaitingTime = function (customers) { 
     let ans = 0;
     let n = customers.length;
     let arrivalTime = 0;
