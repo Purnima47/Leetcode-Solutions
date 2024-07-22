@@ -1,4 +1,5 @@
 class People {
+    
 public:
     string name;
     int height;
