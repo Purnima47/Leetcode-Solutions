@@ -1,6 +1,6 @@
 class Solution {
     public boolean canPlaceBalls(int[] position, int m, int maxDist) {
-         
+     
         int count = 1;
         int prevBall = position[0];
 
