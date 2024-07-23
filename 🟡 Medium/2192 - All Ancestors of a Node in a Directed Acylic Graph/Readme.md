@@ -39,12 +39,13 @@
 <ins>Explanation:</ins>
 </h3>
 The above diagram represents the input graph.
-- Nodes 0, 1, and 2 do not have any ancestors.
-- Node 3 has two ancestors 0 and 1.
-- Node 4 has two ancestors 0 and 2.
-- Node 5 has three ancestors 0, 1, and 3.
-- Node 6 has five ancestors 0, 1, 2, 3, and 4.
-- Node 7 has four ancestors 0, 1, 2, and 3.
+
+1. Nodes 0, 1, and 2 do not have any ancestors.
+2. Node 3 has two ancestors 0 and 1.
+3. Node 4 has two ancestors 0 and 2.
+4. Node 5 has three ancestors 0, 1, and 3.
+5. Node 6 has five ancestors 0, 1, 2, 3, and 4.
+6. Node 7 has four ancestors 0, 1, 2, and 3.
 
 ___
 <h3>
@@ -63,11 +64,12 @@ ___
 <ins>Explanation:</ins>
 </h3>
 The above diagram represents the input graph.
-- Node 0 does not have any ancestor.
-- Node 1 has one ancestor 0.
-- Node 2 has two ancestors 0 and 1.
-- Node 3 has three ancestors 0, 1, and 2.
-- Node 4 has four ancestors 0, 1, 2, and 3.
+
+1. Node 0 does not have any ancestor.
+2. Node 1 has one ancestor 0.
+3. Node 2 has two ancestors 0 and 1.
+4. Node 3 has three ancestors 0, 1, and 2.
+5. Node 4 has four ancestors 0, 1, 2, and 3.
 
 ___
 
