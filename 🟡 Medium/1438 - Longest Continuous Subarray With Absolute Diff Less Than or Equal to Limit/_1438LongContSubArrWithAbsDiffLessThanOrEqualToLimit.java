@@ -1,5 +1,6 @@
 class Solution {
     public int longestSubarray(int[] nums, int limit) {
+        
         Deque<Integer> inc = new LinkedList<>();
         Deque<Integer> dec = new LinkedList<>();
         int l = 0;
