@@ -7,7 +7,6 @@ class Solution {
                 dfs(dest, adjList, visitedSet);
             }
         }
-
     }
 
     public List<List<Integer>> getAncestors(int n, int[][] edges) {
