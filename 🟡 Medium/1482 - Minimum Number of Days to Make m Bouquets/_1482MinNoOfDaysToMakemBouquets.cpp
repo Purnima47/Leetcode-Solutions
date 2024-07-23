@@ -5,12 +5,14 @@ public:
         int count = 0;
 
         for (int i = 0; i < bloomDay.size(); i++) {
+
             if (bloomDay[i] <= day) {
                 count++;
             } else {
                 bouquets += count / k;
                 count = 0;
             }
+            
         }
         bouquets += count / k;
         return bouquets >= m;
