@@ -5,7 +5,7 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             freq.put(nums[i], freq.getOrDefault(nums[i], 0) + 1);
-            newNums[i] = nums[i];
+            newNums[i] = nums[i]; 
         }
 
         Arrays.sort(newNums, (n1, n2) -> {
