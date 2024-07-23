@@ -1,6 +1,6 @@
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int arr[] = new int[2];
+        int arr[] = new int[2]; 
         arr[0] = -1;
         arr[1] = -1;
 
