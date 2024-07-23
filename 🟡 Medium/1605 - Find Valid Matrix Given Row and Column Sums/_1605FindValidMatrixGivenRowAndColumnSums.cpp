@@ -1,7 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> restoreMatrix(vector<int>& rowSum,
-                                      vector<int>& colSum) {
+    vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
         int rowLen = rowSum.size();
         int colLen = colSum.size();
 
