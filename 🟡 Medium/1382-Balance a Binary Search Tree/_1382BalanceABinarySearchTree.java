@@ -17,10 +17,13 @@ class Solution {
     private TreeNode sortedArrayToBST(int start, int end) {
         if (start > end)
             return null;
+        
         int mid = (start + end) / 2;
+
         TreeNode root = sortedArr.get(mid);
         root.left = sortedArrayToBST(start, mid - 1);
         root.right = sortedArrayToBST(mid + 1, end);
+        
         return root;
     }
 }
