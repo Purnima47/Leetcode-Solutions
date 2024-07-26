@@ -6,7 +6,7 @@ public:
 
         if (num == 0) {
             return mapping[num];
-        }
+        } 
 
         while (num > 0) {
             int rem = num % 10;
