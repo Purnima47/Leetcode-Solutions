@@ -1,5 +1,6 @@
 class Solution {
     public void divide(int[] nums, int si, int ei) {
+        
         if (si >= ei) {
             return;
         }
