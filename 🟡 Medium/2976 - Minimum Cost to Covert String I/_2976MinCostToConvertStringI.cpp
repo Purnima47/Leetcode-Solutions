@@ -29,10 +29,12 @@ public:
         }
 
         for (int i = 0; i < original.size(); i++) {
+
             int originalCharIdx = original[i] - 'a';
             int changedCharIdx = changed[i] - 'a';
-            minCost[originalCharIdx][changedCharIdx] = min(
-                minCost[originalCharIdx][changedCharIdx], (long long)cost[i]);
+
+            minCost[originalCharIdx][changedCharIdx] = 
+            min(minCost[originalCharIdx][changedCharIdx], (long long)cost[i]);
         }
 
         flyodWarshall(n, minCost);
