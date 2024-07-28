@@ -1,6 +1,6 @@
 # 58. Length of Last Word
 
-### `Medium`
+### `Easy`
 
 
 <h2 align="center">
