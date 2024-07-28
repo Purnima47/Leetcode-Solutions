@@ -12,7 +12,7 @@ public:
                 count++;
                 l--;
             }
-
+            
             return count;
         } else {
             while (s.at(l - 1) == ' ') {
@@ -26,6 +26,7 @@ public:
                 l--;
                 count++;
             }
+
             return count;
         }
     }
