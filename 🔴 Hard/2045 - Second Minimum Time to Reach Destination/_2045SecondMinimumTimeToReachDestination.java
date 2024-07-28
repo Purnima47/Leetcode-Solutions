@@ -21,6 +21,7 @@ class Solution {
         dist1[1] = 0;
 
         while (!queue.isEmpty()) {
+            
             int[] temp = queue.poll();
             int node = temp[0];
             int freq = temp[1];
