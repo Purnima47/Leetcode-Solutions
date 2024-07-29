@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-<a href=""><strong>Question Link</strong></a>
+<a href="https://leetcode.com/problems/count-number-of-teams/?envType=daily-question&envId=2024-07-29"><strong>Question Link</strong></a>
 </h2>
 
 
