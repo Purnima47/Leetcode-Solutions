@@ -2,6 +2,7 @@ class Solution {
 public:
     int numTeams(vector<int>& rating) {
         int teams = 0;
+        
         int n = rating.size();
         vector<int> left(n);
         vector<int> right(n);

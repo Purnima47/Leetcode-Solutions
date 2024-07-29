@@ -1,6 +1,7 @@
 class Solution {
     public int numTeams(int[] rating) {
         int teams = 0;
+        
         int n = rating.length;
         int[] left = new int[n];
         int[] right = new int[n];
