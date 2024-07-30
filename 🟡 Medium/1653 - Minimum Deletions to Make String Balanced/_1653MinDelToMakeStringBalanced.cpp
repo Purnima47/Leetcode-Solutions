@@ -2,10 +2,13 @@ class Solution {
 public:
     int minimumDeletions(string s) {
         int n = s.length();
+
         vector<int> ACountArr(n);
         vector<int> BCountArr(n);
+
         int noOfA = 0;
         int noOfB = 0;
+        
         int minDel = n;
 
         for (int i = 0; i < n; i++) {

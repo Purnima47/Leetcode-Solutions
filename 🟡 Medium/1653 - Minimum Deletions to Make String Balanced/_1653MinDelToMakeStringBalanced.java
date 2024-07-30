@@ -1,10 +1,13 @@
 class Solution {
     public int minimumDeletions(String s) {
         int n = s.length();
+
         int[] ACountArr = new int[n];
         int[] BCountArr = new int[n];
+
         int noOfA = 0;
         int noOfB = 0;
+        
         int minDel = n;
 
         for (int i = 0; i < n; i++) {
