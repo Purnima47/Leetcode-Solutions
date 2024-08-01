@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumDeletions(string s) {
-        int n = s.length();
+        int n = s.length(); 
 
         vector<int> ACountArr(n);
         vector<int> BCountArr(n);
