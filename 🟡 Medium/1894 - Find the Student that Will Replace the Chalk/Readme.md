@@ -114,8 +114,8 @@ ___
 
 |  Language   |  Solution Link (GitHub) |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++]()  |
-|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  |   [JavaScript]() |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)| [Python]() |
-|  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)| [C]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/1894%20-%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/_1894FindtheStudentthatWillReplacetheChalk.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/1894%20-%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/_1894FindtheStudentthatWillReplacetheChalk.cpp)  |
+|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  |   [JavaScript](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/1894%20-%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/_1894FindtheStudentthatWillReplacetheChalk.js) |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)| [Python](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/1894%20-%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/_1894FindtheStudentthatWillReplacetheChalk.py) |
+|  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)| [C](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/1894%20-%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/_1894FindtheStudentthatWillReplacetheChalk.c) |
