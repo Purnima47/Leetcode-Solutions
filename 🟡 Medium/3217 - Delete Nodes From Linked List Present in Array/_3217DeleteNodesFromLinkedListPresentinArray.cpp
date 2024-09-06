@@ -13,6 +13,7 @@ class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         unordered_set<int> numbers;
+        
         for (auto& num : nums) {
             numbers.insert(num);
         }
