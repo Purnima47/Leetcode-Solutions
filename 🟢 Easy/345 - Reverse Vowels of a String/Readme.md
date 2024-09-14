@@ -66,6 +66,6 @@ ___
 
 |  Language   |  Solution Link (GitHub) |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/345%20-%20Reverse%20Vowels%20of%20a%20String/_2022Convert1DArrayInto2DArray.java) |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/345%20-%20Reverse%20Vowels%20of%20a%20String/_2022Convert1DArrayInto2DArray.cpp)  |
-|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  | [JavaScript](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/345%20-%20Reverse%20Vowels%20of%20a%20String/_2022Convert1DArrayInto2DArray.js) |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/345%20-%20Reverse%20Vowels%20of%20a%20String/_345ReverseVowelsofaString.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/345%20-%20Reverse%20Vowels%20of%20a%20String/_345ReverseVowelsofaString.cpp)  |
+|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  | [JavaScript](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/345%20-%20Reverse%20Vowels%20of%20a%20String/_345ReverseVowelsofaString.js) |
