@@ -56,6 +56,7 @@ ____
 The two players form a team with a total skill of 7. <br>
 The chemistry of the team is 3 * 4 = 12.
 
+
 ___
 
 <h3>
