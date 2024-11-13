@@ -3,6 +3,7 @@ public:
     string compressedString(string word) {
         string res = "";
         int i = 0;
+        
         char curr = word[0];
 
         while (i < word.size()) {
