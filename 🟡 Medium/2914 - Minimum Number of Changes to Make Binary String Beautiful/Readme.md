@@ -105,7 +105,7 @@ ___
 
 |  Language   |  Solution Link (GitHub) |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++]()  |
-|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  | [JavaScript]() |
-|![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)| [Python]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/2914%20-%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/_2914MinimumNumberofChangestoMakeBinaryStringBeautiful.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/2914%20-%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/_2914MinimumNumberofChangestoMakeBinaryStringBeautiful.cpp)  |
+|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  | [JavaScript](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/2914%20-%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/_2914MinimumNumberofChangestoMakeBinaryStringBeautiful.js) |
+|![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)| [Python](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A1%20Medium/2914%20-%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/_2914MinimumNumberofChangestoMakeBinaryStringBeautiful.py) |
