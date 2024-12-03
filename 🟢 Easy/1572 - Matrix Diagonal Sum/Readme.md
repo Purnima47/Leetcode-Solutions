@@ -1,16 +1,18 @@
-# 2022. Convert 1D Array Into 2D Array
+# 1572. Matrix Diagonal Sum
 
 ### `Easy`
 
 
 <h2 align="center">
-<a href=""><strong>Question Link</strong></a>
+<a href="https://leetcode.com/problems/matrix-diagonal-sum/description/"><strong>Question Link</strong></a>
 </h2>
 
 
 ## Description 📑
 
-#### 
+#### Given a square matrix `mat`, return the sum of the matrix diagonals.
+
+#### Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.
 
 ---
 
@@ -84,8 +86,8 @@ ___
 
 |  Language   |  Solution Link (GitHub) |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++]()  |
-|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  | [JavaScript]() |
-|![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)| [C]() |
-|![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)| [Python]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  | [JAVA](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/1572%20-%20Matrix%20Diagonal%20Sum/_1572MatrixDiagonalSum.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  | [C++](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/1572%20-%20Matrix%20Diagonal%20Sum/_1572MatrixDiagonalSum.cpp)  |
+|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  | [JavaScript](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/1572%20-%20Matrix%20Diagonal%20Sum/_1572MatrixDiagonalSum.js) |
+|![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)| [C](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/1572%20-%20Matrix%20Diagonal%20Sum/_1572MatrixDiagonalSum.c) |
+|![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)| [Python](https://github.com/Purnima47/Leetcode-Solutions/blob/main/%F0%9F%9F%A2%20Easy/1572%20-%20Matrix%20Diagonal%20Sum/_1572MatrixDiagonalSum.py) |
