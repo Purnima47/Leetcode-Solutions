@@ -29,7 +29,6 @@ This document tracks progress and provides direct links to the LeetCode problems
 | 2 | Add Two Numbers | Medium 🟡 | [Link](https://leetcode.com/problems/add-two-numbers/) | [Solution](./medium/2-add-two-numbers.md) |
 | 19 | Remove Nth Node From End of List | Medium 🟡 | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./medium/19-remove-nth-node-from-end-of-list.md) |
 | 24 | Swap Nodes in Pairs | Medium 🟡 | [Link](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./medium/24-swap-nodes-in-pairs.md) |
-| 25 | Reverse Nodes in k-Group | Hard | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./hard/25-reverse-nodes-in-k-group.md) |
 | 61 | Rotate List | Medium 🟡 | [Link](https://leetcode.com/problems/rotate-list/) | [Solution](./medium/61-rotate-list.md) |
 | 82 | Remove Duplicates from Sorted List II | Medium 🟡 | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./medium/82-remove-duplicates-from-sorted-list-ii.md) |
 | 86 | Partition List | Medium 🟡 | [Link](https://leetcode.com/problems/partition-list/) | [Solution](./medium/86-partition-list.md) |
